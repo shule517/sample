@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shule517/sample.git"
+  },
+  "author": "shule517",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shule517/sample/issues"
+  },
+  "homepage": "https://github.com/shule517/sample#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "node.js": "0.0.0"
+  }
+}
